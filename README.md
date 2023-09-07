@@ -1,1 +1,1 @@
-Welcome to my GitHub repository! This repository serves as a showcase of my work and projects in the field of computer science and applications. You'll discover a collection of projects and code samples that demonstrate my skills and expertise here.
+This repository contains a simple Python mini-project that simulates a basic banking system. Users can log in with their username and password, and perform various banking operations such as depositing money, withdrawing money, and checking their account balance.
